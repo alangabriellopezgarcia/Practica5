@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practica5ScrollView</string>
+    <string name="ListaImagen">Lista de Imagenes</string>
+    <string name="Piepantalla">Derechos Reservados</string>
+    <string name="logoandroid">Logo de Android</string>
+    <string name="logoinstagram">Logo de Instagram</string>
+    <string name="logoinstagram">Logo de Instagram</string>
+    <string name="logotelegram">Logo de Telegram</string>
+    <string name="logotwitter">Logo de Twitter </string>
+    <string name="logowhatsapp">Logo de Whatsapp</string>
+    <string name="miboton">pincha aqui pibe :v</string>
+    <string name="ingresanombre">Ingresa tu Nombre</string>
+</resources>
